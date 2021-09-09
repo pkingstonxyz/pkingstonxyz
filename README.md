@@ -3,7 +3,7 @@
 You've reached the github of Patrick Kingston.
 
  - :zap: I love programming, unicycling, and reading manga
- - 🐻‍❄️ Student at Bowdoin College
+ - :polar_bear: Student at Bowdoin College
 
 Sorry that it's so sparse! I don't use my github very often.
 

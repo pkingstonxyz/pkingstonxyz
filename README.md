@@ -10,7 +10,9 @@ Sorry that it's so sparse! I don't use my github very often.
 📬 To find me elsewhere:
 
 For my blog visit: [pkingston.xyz/blog](https://pkingston.xyz/blog/)
-For my portfolio visit: [pkingston.xyz/portfolio](https://pkingston.xyz/contact/)
+
+To get in touch visit: [pkingston.xyz/contact](https://pkingston.xyz/contact/)
+
 To hire me on upwork visit [My upwork profile](https://www.upwork.com/freelancers/~0135e57c209f3e881d)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkingstonxyz)](https://github.com/anuraghazra/github-readme-stats)

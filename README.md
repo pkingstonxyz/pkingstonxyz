@@ -13,8 +13,6 @@ For my blog visit: [pkingston.xyz/blog](https://pkingston.xyz/blog/)
 
 To get in touch visit: [pkingston.xyz/contact](https://pkingston.xyz/contact/)
 
-To hire me on upwork visit [My upwork profile](https://www.upwork.com/freelancers/~0135e57c209f3e881d)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkingstonxyz)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 pkingstonxyz/pkingstonxyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -11,7 +11,7 @@ Sorry that it's so sparse! I don't use my github very often.
 
 For my blog visit: [pkingston.xyz/blog](https://pkingston.xyz/blog/)
 
-To get in touch visit: [pkingston.xyz/contact](https://pkingston.xyz/contact/)
+To get in touch, email patrick@pkingston.xyz
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkingstonxyz&hide=cython,tex,c++,vimscript&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)]
 

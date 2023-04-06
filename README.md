@@ -4,9 +4,8 @@ You've reached the github of Patrick Kingston.
 
  - :zap: I love programming, unicycling, and reading manga
  - :polar_bear: Student at Bowdoin College
-
-Sorry that it's so sparse! I don't use my github very often.
-
+ - Clojure developer
+ - Python programmer
 📬 To find me elsewhere:
 
 For my blog visit: [pkingston.xyz/blog](https://pkingston.xyz/blog/)

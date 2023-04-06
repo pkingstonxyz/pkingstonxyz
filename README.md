@@ -13,8 +13,6 @@ For my blog visit: [pkingston.xyz/blog](https://pkingston.xyz/blog/)
 
 To get in touch, email patrick@pkingston.xyz
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkingstonxyz&hide=cython,tex,c++,vimscript&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)]
-
 ![pkingstonxyz's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkingstonxyz&show_icons=true&theme=tokyonight)
 
 <!---

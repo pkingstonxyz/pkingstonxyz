@@ -6,13 +6,6 @@ You've reached the github of Patrick Kingston.
  - :polar_bear: Student at Bowdoin College
  - Clojure developer
  - Python programmer
-📬 To find me elsewhere:
-
-For my blog visit: [pkingston.xyz/blog](https://pkingston.xyz/blog/)
-
-To get in touch, email patrick@pkingston.xyz
-
-![pkingstonxyz's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkingstonxyz&show_icons=true&theme=tokyonight)
 
 <!---
 pkingstonxyz/pkingstonxyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

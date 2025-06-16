@@ -2,10 +2,9 @@
 
 You've reached the github of Patrick Kingston.
 
- - :zap: I love programming, classics, unicycling, reading manga
+ - I love ancient languages, scuba diving, unicycling, and manga. 
  - :polar_bear:
- - Clojure developer
- - Python programmer
+ - Python dev by day, lisp/fp by night
 
 [website](https://pkingston.xyz)
 <!---

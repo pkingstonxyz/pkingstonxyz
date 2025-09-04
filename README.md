@@ -1,12 +1,15 @@
 # Patrick Kingston
 
-You've reached the github of Patrick Kingston.
+[Check out my website](https://pkingston.xyz)
 
- - I love ancient languages, scuba diving, unicycling, and manga. 
- - :polar_bear:
- - Python dev by day, lisp/fp by night
+Currently working on: [ansible](https://github.com/ansible/ansible)
 
-[website](https://pkingston.xyz)
+Currently studying:
+ - Ancient Greek
+ - Akkadian
+ - (really just reviewing) Latin
+ - Python
+
 <!---
 pkingstonxyz/pkingstonxyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

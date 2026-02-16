@@ -6,8 +6,7 @@ Currently working on: [ansible](https://github.com/ansible/ansible)
 
 Currently studying:
  - Ancient Greek
- - Akkadian
- - (really just reviewing) Latin
+ - Latin
  - Python
 
 <!---
